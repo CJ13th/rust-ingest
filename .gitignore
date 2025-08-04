@@ -1,0 +1,9 @@
+
+/target/
+
+.DS_Store
+*.rs.bk
+.idea/
+.vscode/
+digest.txt
+output.txt
